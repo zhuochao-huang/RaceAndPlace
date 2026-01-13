@@ -1,4 +1,4 @@
-This repository provides the code for the simulation studies presented in the paper: https://arxiv.org/pdf/2409.08059
+This repository provides the code for the simulation studies presented in the paper titled “Causal inference and racial bias in policing: New estimands and the importance of mobility data” (https://arxiv.org/pdf/2409.08059)
 
 The primary goal of this repository is to make all code associated with the simulation studies available to the research community. These scripts allow for the full reproduction of the simulation results discussed in the paper.
 
